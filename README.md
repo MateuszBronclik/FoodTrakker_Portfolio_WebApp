@@ -8,7 +8,7 @@ The idea for Food Trakker came about when we realized that there was a lack of g
 
 
 
-![Alt Text](https://i.imgur.com/01rO0Tx.gif)
+![Alt Text](https://github.com/infoshareacademy/jcszr6-kawialeriaKlawiatury/blob/sprint4/FrontEndResources/reduced%20size/foodtrakker.gif)
 
 
 
